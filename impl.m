@@ -3,7 +3,7 @@
 //  CLocalAuthentication
 //
 //  Created by Shawn Anastasio on 6/9/17.
-//  Copyright © 2017 Shawn Anastasio. Licensed under the terms of the GNU GPL v3.
+//  Copyright © 2017 Shawn Anastasio. Licensed under the terms of the MIT License.
 
 #import <Foundation/Foundation.h>
 #import <LocalAuthentication/LocalAuthentication.h>
